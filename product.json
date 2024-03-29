@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "Americano",
+        "price": 7,
+        "image": "images/1.png"
+    },
+    {
+        "id": 2,
+        "name": "Caramel Macchiato",
+        "price": 9,
+        "image": "images/2.png"
+    },
+    {
+        "id": 3,
+        "name": "Brown Latte",
+        "price": 10,
+        "image": "images/3.png"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "White Chocolate Mocha",
+        "price": 9,
+        "image": "images/4.png"
+    },
+    {
+        "id": 5,
+        "name": "Mocha",
+        "price": 9,
+        "image": "images/5.png"
+    },
+    {
+        "id": 6,
+        "name": "Hazelnut Latte",
+        "price": 9,
+        "image": "images/6.png"
+    }
+]
